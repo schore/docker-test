@@ -3,4 +3,4 @@ version: '2'
 services:
   man:
     build: .
-    image: schore/test1
+    image: schore/buildcontainer
